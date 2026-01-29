@@ -1,0 +1,693 @@
+[
+    {
+        "key": "autel",
+        "name": "Autel",
+        "drones": [
+            {
+                "key": "autel_evo_2",
+                "name": "Evo II",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 64,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": true,
+                "isBeidou": false
+            },
+            {
+                "key": "autel_evo_lite_plus",
+                "name": "EVO Lite+",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 61,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "autel_robotics_evo_nano_plus",
+                "name": "Robotics Evo Nano+",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 61,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": true,
+                "isBeidou": false
+            }
+        ]
+    },
+    {
+        "key": "dji",
+        "name": "DJI",
+        "drones": [
+            {
+                "key": "dji_avata",
+                "name": "Avata",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
+                "key": "dji_avata_2",
+                "name": "Avata 2",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
+                "key": "dji_fpv",
+                "name": "FPV",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 49,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": true,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_flip",
+                "name": "FLIP",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": true,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_inspire_1",
+                "name": "Inspire 1",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 36,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
+                "key": "dji_inspire_2",
+                "name": "Inspire 2",
+                "minTemperature": -20,
+                "maxTemperature": 40,
+                "maxWindSpeed": 36,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_inspire_3",
+                "name": "Inspire 3",
+                "minTemperature": -20,
+                "maxTemperature": 40,
+                "maxWindSpeed": 50,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
+                "key": "dji_mavic_air",
+                "name": "Mavic Air",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_mavic_2_pro",
+                "name": "Mavic Air Pro",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_mavic_air_2",
+                "name": "Mavic Air 2",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_mavic_air_2s",
+                "name": "Mavic Air 2S",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": true,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_mavic_air_3",
+                "name": "Mavic Air 3",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 43,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
+                "key": "dji_mavic_air_3s",
+                "name": "Mavic Air 3S",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 43,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
+                "key": "dji_mavic_mini",
+                "name": "Mavic Mini",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 28,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_mavic_pro",
+                "name": "Mavic Pro",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_mavic_pro_platinum",
+                "name": "Mavic Pro Platinum",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_mavic_2_zoom",
+                "name": "Mavic 2 Zoom",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_mavic_3",
+                "name": "Mavic 3",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 43,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
+                "key": "dji_mavic_3_classic",
+                "name": "Mavic 3 Classic",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 43,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
+                "key": "dji_mavic_3_pro",
+                "name": "Mavic 3 Pro",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 43,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
+                "key": "dji_mavic_4_pro",
+                "name": "Mavic 4 Pro",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 43,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
+                "key": "dji_mini_se",
+                "name": "Mini SE",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_mini_2",
+                "name": "Mini 2",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": true,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_mini_2_se",
+                "name": "Mini 2 SE",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": true,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_mini_3",
+                "name": "Mini 3",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": true,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_mini_3_pro",
+                "name": "Mini 3 Pro",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
+                "key": "dji_mini_4_pro",
+                "name": "Mini 4 Pro",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
+                "key": "dji_mini_4k",
+                "name": "Mini 4K",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": true,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_neo",
+                "name": "Neo",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 28,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
+                "key": "dji_spark",
+                "name": "Spark",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 28,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_phantom_3_standard",
+                "name": "Phantom 3 Standard",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 36,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_phantom_3_se",
+                "name": "Phantom 3 SE",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 36,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_phantom_3_advanced",
+                "name": "Phantom 3 Advanced",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 36,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_phantom_3_pro",
+                "name": "Phantom 3 Professional",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 36,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_phantom_3_4k",
+                "name": "Phantom 3 4K",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 36,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_phantom_2_vision_plus",
+                "name": "Phantom 2 Vision +",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 36,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_phantom_4",
+                "name": "Phantom 4",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 36,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_phantom_4_pro",
+                "name": "Phantom 4 Pro",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 36,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_phantom_4_advanced",
+                "name": "Phantom 4 Advanced",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_phantom_4_pro_v2",
+                "name": "Phantom 4 Pro V2.0",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "dji_phantom_4_rtk_asia",
+                "name": "Phantom 4 RTK (asia)",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
+                "key": "dji_phantom_4_rtk",
+                "name": "Phantom 4 RTK",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": true,
+                "isBeidou": false
+            }
+        ]
+    },
+    {
+        "key": "fimi",
+        "name": "Fimi",
+        "drones": [
+            {
+                "key": "fimi_x8_mini",
+                "name": "X8 Mini",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": true
+            },
+            {
+                "key": "fimi_x8_pro",
+                "name": "X8 Pro",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 72,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
+                "key": "fimi_x8_mini_v2",
+                "name": "X8 Mini V2",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
+                "key": "fimi_x8_mini_3",
+                "name": "X8 Mini 3",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
+                "key": "fimi_x8_mini_3_se",
+                "name": "X8 Mini 3 SE",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": true
+            },
+            {
+                "key": "fimi_x8_se_2022",
+                "name": "X8 SE 2022",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 72,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": true,
+                "isBeidou": false
+            },
+            {
+                "key": "fimi_x8_tele",
+                "name": "X8 Tele",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 36,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": true
+            }
+        ]
+    },
+    {
+        "key": "holy",
+        "name": "Holy",
+        "drones": [
+            {
+                "key": "holy_stone_hs720",
+                "name": "Stone HS720",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 36,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": false,
+                "isBeidou": false
+            }
+        ]
+    },
+    {
+        "key": "parrot",
+        "name": "Parrot",
+        "drones": [
+            {
+                "key": "parrot_anafi",
+                "name": "Anafi",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 50,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            }
+        ]
+    },
+    {
+        "key": "potensic",
+        "name": "Potensic",
+        "drones": [
+            {
+                "key": "potensic_dreamer_4k",
+                "name": "Dreamer 4K",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "potensic_dreamer_pro",
+                "name": "Dreamer Pro",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "potensic_atom",
+                "name": "Atom",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "potensic_atom_se",
+                "name": "Atom SE",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            }
+        ]
+    },
+    {
+        "key": "ryze",
+        "name": "Ryze",
+        "drones": [
+            {
+                "key": "ryze_tello",
+                "name": "Tello",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 20,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": false,
+                "isBeidou": false
+            }
+        ]
+    }
+]
