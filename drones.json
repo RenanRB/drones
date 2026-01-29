@@ -351,6 +351,17 @@
                 "isBeidou": false
             },
             {
+                "key": "dji_mini_5_pro",
+                "name": "Mini 5 Pro",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 43,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
                 "key": "dji_neo",
                 "name": "Neo",
                 "minTemperature": -10,
@@ -703,3 +714,4 @@
     }
 
 ]
+
