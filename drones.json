@@ -362,6 +362,17 @@
                 "isBeidou": true
             },
             {
+                "key": "dji_neo_2",
+                "name": "Neo 2",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
                 "key": "dji_spark",
                 "name": "Spark",
                 "minTemperature": 0,
@@ -690,4 +701,5 @@
             }
         ]
     }
+
 ]
