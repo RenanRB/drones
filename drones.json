@@ -629,6 +629,23 @@
         ]
     },
     {
+        "key": "lyzrc",
+        "name": "LYZRC",
+        "drones": [
+            {
+                "key": "L900_pro_se ",
+                "name": "L900 Pro SE ",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            }
+        ]
+    },
+    {
         "key": "parrot",
         "name": "Parrot",
         "drones": [
