@@ -1,0 +1,213 @@
+[
+    {
+      "key": "dji_agras",
+      "name": "DJI Agras",
+      "drones": [
+        {
+          "key": "dji_agras_t100",
+          "name": "Agras T100",
+          "minTemperature": 0,
+          "maxTemperature": 45,
+          "maxWindSpeed": 22, 
+          "isGps": true,
+          "isGlonass": true,
+          "isGalileo": true,
+          "isBeidou": true
+        },
+        {
+          "key": "dji_agras_t70p",
+          "name": "Agras T70P",
+          "minTemperature": 0,
+          "maxTemperature": 45,
+          "maxWindSpeed": 22, 
+          "isGps": true,
+          "isGlonass": true,
+          "isGalileo": true,
+          "isBeidou": true
+        },
+        {
+          "key": "dji_agras_t70",
+          "name": "Agras T70",
+          "minTemperature": 0,
+          "maxTemperature": 45,
+          "maxWindSpeed": 22, 
+          "isGps": true,
+          "isGlonass": true,
+          "isGalileo": true,
+          "isBeidou": true
+        },
+        {
+          "key": "dji_agras_t60",
+          "name": "Agras T60",
+          "minTemperature": 0,
+          "maxTemperature": 45,
+          "maxWindSpeed": 22, 
+          "isGps": true,
+          "isGlonass": true,
+          "isGalileo": true,
+          "isBeidou": true
+        },
+        {
+          "key": "dji_agras_t50",
+          "name": "Agras T50",
+          "minTemperature": -20,
+          "maxTemperature": 50,
+          "maxWindSpeed": 22, 
+          "isGps": true,
+          "isGlonass": true,
+          "isGalileo": true,
+          "isBeidou": true
+        },
+        {
+          "key": "dji_agras_t40",
+          "name": "Agras T40",
+          "minTemperature": 0,
+          "maxTemperature": 45,
+          "maxWindSpeed": 22, 
+          "isGps": true,
+          "isGlonass": true,
+          "isGalileo": true,
+          "isBeidou": true
+        },
+        {
+          "key": "dji_agras_t30",
+          "name": "Agras T30",
+          "minTemperature": 0,
+          "maxTemperature": 45,
+          "maxWindSpeed": 29,
+          "isGps": true,
+          "isGlonass": true,
+          "isGalileo": true,
+          "isBeidou": true
+        },
+        {
+          "key": "dji_agras_t25p",
+          "name": "Agras T25P",
+          "minTemperature": -20,
+          "maxTemperature": 50,
+          "maxWindSpeed": 22, 
+          "isGps": true,
+          "isGlonass": true,
+          "isGalileo": true,
+          "isBeidou": true
+        },
+        {
+          "key": "dji_agras_t25",
+          "name": "Agras T25",
+          "minTemperature": -20,
+          "maxTemperature": 50,
+          "maxWindSpeed": 22, 
+          "isGps": true,
+          "isGlonass": true,
+          "isGalileo": true,
+          "isBeidou": true
+        },
+        {
+          "key": "dji_agras_t10",
+          "name": "Agras T10",
+          "minTemperature": 0,
+          "maxTemperature": 45,
+          "maxWindSpeed": 29,
+          "isGps": true,
+          "isGlonass": true,
+          "isGalileo": true,
+          "isBeidou": true
+        }
+      ]
+    },
+    {
+      "key": "xag",
+      "name": "XAG",
+      "drones": [
+        {
+          "key": "xag_p100_pro",
+          "name": "XAG P100 Pro",
+          "minTemperature": 0,
+          "maxTemperature": 40,
+          "maxWindSpeed": 22, 
+          "isGps": true,
+          "isGlonass": true,
+          "isGalileo": true,
+          "isBeidou": true
+        },
+        {
+          "key": "xag_p40",
+          "name": "XAG P40",
+          "minTemperature": -10,
+          "maxTemperature": 40,
+          "maxWindSpeed": 22, 
+          "isGps": true,
+          "isGlonass": true,
+          "isGalileo": false,
+          "isBeidou": true
+        },
+        {
+          "key": "xag_v40",
+          "name": "XAG V40",
+          "minTemperature": -10,
+          "maxTemperature": 40,
+          "maxWindSpeed": 22, 
+          "isGps": true,
+          "isGlonass": true,
+          "isGalileo": false,
+          "isBeidou": true
+        }
+      ]
+    },
+    {
+      "key": "hylio",
+      "name": "Hylio",
+      "drones": [
+        {
+          "key": "hylio_ag_230",
+          "name": "AG-230",
+          "minTemperature": 0,
+          "maxTemperature": 45,
+          "maxWindSpeed": 35,
+          "isGps": true,
+          "isGlonass": false,
+          "isGalileo": false,
+          "isBeidou": false
+        },
+        {
+          "key": "hylio_ag_130",
+          "name": "AG-130",
+          "minTemperature": 0,
+          "maxTemperature": 45,
+          "maxWindSpeed": 35,
+          "isGps": true,
+          "isGlonass": false,
+          "isGalileo": false,
+          "isBeidou": false
+        }
+      ]
+    },
+    {
+      "key": "tta",
+      "name": "TTA",
+      "drones": [
+        {
+          "key": "tta_g200",
+          "name": "G200",
+          "minTemperature": 0,
+          "maxTemperature": 45,
+          "maxWindSpeed": 28,
+          "isGps": true,
+          "isGlonass": false,
+          "isGalileo": false,
+          "isBeidou": true
+        },
+        {
+          "key": "tta_m6e_1",
+          "name": "M6E-1",
+          "minTemperature": 0,
+          "maxTemperature": 45,
+          "maxWindSpeed": 28,
+          "isGps": true,
+          "isGlonass": false,
+          "isGalileo": false,
+          "isBeidou": true
+        }
+      ]
+    }
+]
