@@ -533,8 +533,8 @@
         "name": "Fimi",
         "drones": [
             {
-                "key": "fimi_x8_mini",
-                "name": "X8 Mini",
+                "key": "fimi_mini_3",
+                "name": "Mini 3",
                 "minTemperature": 0,
                 "maxTemperature": 40,
                 "maxWindSpeed": 38,
@@ -544,14 +544,25 @@
                 "isBeidou": true
             },
             {
-                "key": "fimi_x8_pro",
-                "name": "X8 Pro",
+                "key": "fimi_mini_3_se",
+                "name": "Mini 3 SE",
                 "minTemperature": 0,
                 "maxTemperature": 40,
-                "maxWindSpeed": 72,
+                "maxWindSpeed": 38,
                 "isGps": true,
                 "isGlonass": true,
-                "isGalileo": true,
+                "isGalileo": false,
+                "isBeidou": true
+            },
+            {
+                "key": "fimi_x8_mini",
+                "name": "X8 Mini",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
                 "isBeidou": true
             },
             {
@@ -588,25 +599,69 @@
                 "isBeidou": true
             },
             {
+                "key": "fimi_x8_pro",
+                "name": "X8 Pro",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 40,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
+                "key": "fimi_x8_pro_2025",
+                "name": "X8 Pro 2025",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 43,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
                 "key": "fimi_x8_se_2022",
                 "name": "X8 SE 2022",
                 "minTemperature": 0,
                 "maxTemperature": 40,
-                "maxWindSpeed": 72,
+                "maxWindSpeed": 44,
                 "isGps": true,
                 "isGlonass": true,
                 "isGalileo": true,
                 "isBeidou": false
             },
             {
-                "key": "fimi_x8_tele",
-                "name": "X8 Tele",
-                "minTemperature": -10,
+                "key": "fimi_x8_se_2020",
+                "name": "X8 SE 2020",
+                "minTemperature": 0,
                 "maxTemperature": 40,
-                "maxWindSpeed": 36,
+                "maxWindSpeed": 50,
                 "isGps": true,
                 "isGlonass": true,
                 "isGalileo": false,
+                "isBeidou": true
+            },
+            {
+                "key": "fimi_x8_tele",
+                "name": "X8 Pro Tele",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 43,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": true,
+                "isBeidou": false
+            },
+            {
+                "key": "fimi_x8_tele_max",
+                "name": "X8 Pro Tele Max",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 43,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": true,
                 "isBeidou": true
             }
         ]
