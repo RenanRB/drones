@@ -722,6 +722,50 @@
         "name": "Potensic",
         "drones": [
             {
+                "key": "potensic_atom",
+                "name": "Atom",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "potensic_atom_2",
+                "name": "ATOM 2",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
+                "key": "potensic_atom_lt",
+                "name": "ATOM LT",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
+                "key": "potensic_atom_se",
+                "name": "Atom SE",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
                 "key": "potensic_dreamer_4k",
                 "name": "Dreamer 4K",
                 "minTemperature": 0,
@@ -735,28 +779,6 @@
             {
                 "key": "potensic_dreamer_pro",
                 "name": "Dreamer Pro",
-                "minTemperature": 0,
-                "maxTemperature": 40,
-                "maxWindSpeed": 38,
-                "isGps": true,
-                "isGlonass": true,
-                "isGalileo": false,
-                "isBeidou": false
-            },
-            {
-                "key": "potensic_atom",
-                "name": "Atom",
-                "minTemperature": 0,
-                "maxTemperature": 40,
-                "maxWindSpeed": 38,
-                "isGps": true,
-                "isGlonass": true,
-                "isGalileo": false,
-                "isBeidou": false
-            },
-            {
-                "key": "potensic_atom_se",
-                "name": "Atom SE",
                 "minTemperature": 0,
                 "maxTemperature": 40,
                 "maxWindSpeed": 38,
