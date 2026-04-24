@@ -805,6 +805,34 @@
                 "isBeidou": false
             }
         ]
+    },
+    {
+        "key": "skyrover",
+        "name": "SKYROVER",
+        "drones": [
+            {
+                "key": "skyrover_s1",
+                "name": "S1",
+                "minTemperature": -15,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": true,
+                "isBeidou": false
+            },
+            {
+                "key": "skyrover_x1",
+                "name": "X1",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": true,
+                "isBeidou": true
+            }
+        ]
     }
 
 ]
