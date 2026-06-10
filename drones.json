@@ -720,9 +720,8 @@
         "key": "lyzrc",
         "name": "LYZRC",
         "drones": [
-            
             {
-                "key": "L200 ",
+                "key": "L200",
                 "name": "L200 ",
                 "minTemperature": 0,
                 "maxTemperature": 40,
@@ -733,8 +732,8 @@
                 "isBeidou": false
             },
             {
-                "key": "L900_pro_se ",
-                "name": "L900 Pro SE ",
+                "key": "L200_pro_max",
+                "name": "L200 Pro MAX",
                 "minTemperature": 0,
                 "maxTemperature": 40,
                 "maxWindSpeed": 38,
@@ -744,8 +743,19 @@
                 "isBeidou": false
             },
             {
-                "key": "L600_pro_max ",
-                "name": "L600 Pro MAX ",
+                "key": "L900_pro_se",
+                "name": "L900 Pro SE",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "L600_pro_max",
+                "name": "L600 Pro MAX",
                 "minTemperature": -10,
                 "maxTemperature": 50,
                 "maxWindSpeed": 10,
