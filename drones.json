@@ -65,6 +65,17 @@
                 "isBeidou": true
             },
             {
+                "key": "dji_avata_360",
+                "name": "Avata 360",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
                 "key": "dji_fpv",
                 "name": "FPV",
                 "minTemperature": -10,
@@ -114,6 +125,28 @@
                 "minTemperature": -20,
                 "maxTemperature": 40,
                 "maxWindSpeed": 50,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
+                "key": "dji_lito_1",
+                "name": "Lito 1",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 36,
+                "isGps": true,
+                "isGlonass": false,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
+                "key": "dji_lito_x1",
+                "name": "Lito X1",
+                "minTemperature": -10,
+                "maxTemperature": 40,
+                "maxWindSpeed": 36,
                 "isGps": true,
                 "isGlonass": false,
                 "isGalileo": true,
@@ -687,12 +720,35 @@
         "key": "lyzrc",
         "name": "LYZRC",
         "drones": [
+            
+            {
+                "key": "L200 ",
+                "name": "L200 ",
+                "minTemperature": 0,
+                "maxTemperature": 40,
+                "maxWindSpeed": 25,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
             {
                 "key": "L900_pro_se ",
                 "name": "L900 Pro SE ",
                 "minTemperature": 0,
                 "maxTemperature": 40,
                 "maxWindSpeed": 38,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": false,
+                "isBeidou": false
+            },
+            {
+                "key": "L600_pro_max ",
+                "name": "L600 Pro MAX ",
+                "minTemperature": -10,
+                "maxTemperature": 50,
+                "maxWindSpeed": 10,
                 "isGps": true,
                 "isGlonass": true,
                 "isGalileo": false,
