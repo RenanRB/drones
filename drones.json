@@ -153,6 +153,28 @@
                 "isBeidou": true
             },
             {
+                "key": "dji_matrice_30",
+                "name": "Matrice 30",
+                "minTemperature": -20,
+                "maxTemperature": 50,
+                "maxWindSpeed": 43,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
+                "key": "dji_matrice_30t",
+                "name": "Matrice 30T",
+                "minTemperature": -20,
+                "maxTemperature": 50,
+                "maxWindSpeed": 43,
+                "isGps": true,
+                "isGlonass": true,
+                "isGalileo": true,
+                "isBeidou": true
+            },
+            {
                 "key": "dji_mavic_air",
                 "name": "Mavic Air",
                 "minTemperature": 0,
