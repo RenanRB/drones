@@ -48,6 +48,17 @@
           "isBeidou": true
         },
         {
+          "key": "dji_agras_t55",
+          "name": "Agras T55",
+          "minTemperature": 0,
+          "maxTemperature": 40,
+          "maxWindSpeed": 22, 
+          "isGps": true,
+          "isGlonass": true,
+          "isGalileo": true,
+          "isBeidou": true
+        },
+        {
           "key": "dji_agras_t50",
           "name": "Agras T50",
           "minTemperature": -20,
