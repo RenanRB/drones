@@ -187,7 +187,7 @@
             },
             {
                 "key": "dji_mavic_2_pro",
-                "name": "Mavic Air Pro",
+                "name": "Mavic 2 Pro",
                 "minTemperature": -10,
                 "maxTemperature": 40,
                 "maxWindSpeed": 38,
@@ -209,7 +209,7 @@
             },
             {
                 "key": "dji_mavic_air_2s",
-                "name": "Mavic Air 2S",
+                "name": "Air 2S",
                 "minTemperature": 0,
                 "maxTemperature": 40,
                 "maxWindSpeed": 38,
@@ -220,7 +220,7 @@
             },
             {
                 "key": "dji_mavic_air_3",
-                "name": "Mavic Air 3",
+                "name": "Air 3",
                 "minTemperature": -10,
                 "maxTemperature": 40,
                 "maxWindSpeed": 43,
@@ -231,7 +231,7 @@
             },
             {
                 "key": "dji_mavic_air_3s",
-                "name": "Mavic Air 3S",
+                "name": "Air 3S",
                 "minTemperature": -10,
                 "maxTemperature": 40,
                 "maxWindSpeed": 43,
