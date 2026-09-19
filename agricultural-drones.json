@@ -7,7 +7,7 @@
           "key": "dji_agras_t100",
           "name": "Agras T100",
           "minTemperature": 0,
-          "maxTemperature": 45,
+          "maxTemperature": 40,
           "maxWindSpeed": 22, 
           "isGps": true,
           "isGlonass": true,
@@ -18,7 +18,7 @@
           "key": "dji_agras_t70p",
           "name": "Agras T70P",
           "minTemperature": 0,
-          "maxTemperature": 45,
+          "maxTemperature": 40,
           "maxWindSpeed": 22, 
           "isGps": true,
           "isGlonass": true,
@@ -29,7 +29,7 @@
           "key": "dji_agras_t70",
           "name": "Agras T70",
           "minTemperature": 0,
-          "maxTemperature": 45,
+          "maxTemperature": 40,
           "maxWindSpeed": 22, 
           "isGps": true,
           "isGlonass": true,
@@ -40,7 +40,7 @@
           "key": "dji_agras_t60",
           "name": "Agras T60",
           "minTemperature": 0,
-          "maxTemperature": 45,
+          "maxTemperature": 40,
           "maxWindSpeed": 22, 
           "isGps": true,
           "isGlonass": true,
@@ -61,8 +61,8 @@
         {
           "key": "dji_agras_t50",
           "name": "Agras T50",
-          "minTemperature": -20,
-          "maxTemperature": 50,
+          "minTemperature": 0,
+          "maxTemperature": 45,
           "maxWindSpeed": 22, 
           "isGps": true,
           "isGlonass": true,
@@ -85,17 +85,17 @@
           "name": "Agras T30",
           "minTemperature": 0,
           "maxTemperature": 45,
-          "maxWindSpeed": 29,
+          "maxWindSpeed": 22,
           "isGps": true,
           "isGlonass": true,
           "isGalileo": true,
-          "isBeidou": true
+          "isBeidou": false
         },
         {
           "key": "dji_agras_t25p",
           "name": "Agras T25P",
-          "minTemperature": -20,
-          "maxTemperature": 50,
+          "minTemperature": 0,
+          "maxTemperature": 40,
           "maxWindSpeed": 22, 
           "isGps": true,
           "isGlonass": true,
@@ -105,8 +105,8 @@
         {
           "key": "dji_agras_t25",
           "name": "Agras T25",
-          "minTemperature": -20,
-          "maxTemperature": 50,
+          "minTemperature": 0,
+          "maxTemperature": 45,
           "maxWindSpeed": 22, 
           "isGps": true,
           "isGlonass": true,
@@ -118,11 +118,11 @@
           "name": "Agras T10",
           "minTemperature": 0,
           "maxTemperature": 45,
-          "maxWindSpeed": 29,
+          "maxWindSpeed": 22,
           "isGps": true,
           "isGlonass": true,
           "isGalileo": true,
-          "isBeidou": true
+          "isBeidou": false
         }
       ]
     },
@@ -146,10 +146,10 @@
           "name": "XAG P40",
           "minTemperature": -10,
           "maxTemperature": 40,
-          "maxWindSpeed": 22, 
+          "maxWindSpeed": 11, 
           "isGps": true,
           "isGlonass": true,
-          "isGalileo": false,
+          "isGalileo": true,
           "isBeidou": true
         },
         {
@@ -157,10 +157,10 @@
           "name": "XAG V40",
           "minTemperature": -10,
           "maxTemperature": 40,
-          "maxWindSpeed": 22, 
+          "maxWindSpeed": 11, 
           "isGps": true,
           "isGlonass": true,
-          "isGalileo": false,
+          "isGalileo": true,
           "isBeidou": true
         }
       ]
@@ -201,23 +201,23 @@
           "key": "tta_g200",
           "name": "G200",
           "minTemperature": 0,
-          "maxTemperature": 45,
-          "maxWindSpeed": 28,
+          "maxTemperature": 40,
+          "maxWindSpeed": 19,
           "isGps": true,
           "isGlonass": false,
           "isGalileo": false,
-          "isBeidou": true
+          "isBeidou": false
         },
         {
           "key": "tta_m6e_1",
           "name": "M6E-1",
           "minTemperature": 0,
           "maxTemperature": 45,
-          "maxWindSpeed": 28,
+          "maxWindSpeed": 25,
           "isGps": true,
           "isGlonass": false,
           "isGalileo": false,
-          "isBeidou": true
+          "isBeidou": false
         }
       ]
     }
